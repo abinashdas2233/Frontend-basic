@@ -1,0 +1,162 @@
+.lk{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    .lobster-regular {
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    
+}
+.left{
+border: 2px;
+color: white;
+position: absolute;
+left: 34px;
+top: 17px;
+color: white;
+display: inline-block;
+
+    
+}
+.left div{
+    align-items: center;
+}
+.left img{
+width: 70px;
+height: 80px;
+
+filter: invert();
+}
+.mid{
+    display: block;
+    width: 33%;
+    height: auto;
+    margin: 12px auto;
+    border: 3px ;
+    color:white;
+    top: 20px;
+    
+
+    
+    
+}
+.right{
+    border: 3px ;
+    position: absolute;
+    right: 34px;
+    top: 17px;
+    color: white;
+    display: inline-block;
+
+}
+.navbar{
+    display: inline-block;
+}
+.navbar li{
+    display: inline-block;
+    color:  white;
+    text-decoration: underline;
+    padding:20px;
+   
+      
+    
+}
+.btn{
+    margin: 0px 9px;
+}
+.duk{
+    border-color: 100px rgb(255, 81, 0);
+    background-color: rgb(178, 177, 167);
+    height: 520px;
+    width: 80px;
+    margin-left: 30px;
+    border-radius: 30px;
+    
+    
+}
+.mk{
+    align-items: center;
+    padding-left: 30px;
+    box-sizing: border-box;
+    height: 100px;
+    
+    align-self: baseline;
+    padding-top: 10px;
+    
+    
+    
+}
+a.hk:hover{
+    background-color: yellow;
+    cursor: pointer;
+    
+
+
+}
+a:hover{
+    background-color: rgb(8, 8, 0);
+    cursor: pointer;
+
+}
+.ak{
+    background-color: rgb(26, 29, 32);
+    position: relative;
+  
+}
+.content{
+    border-style: groove;
+    margin-top: 6px;
+}
+.content h1{
+    display: block;
+    
+    width: 30%;
+    margin-left: 35%;
+    color: white;
+    font-weight: 400;
+
+    
+    
+     
+}
+.content p{
+    
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 20px;
+    font-weight: 500;
+    color:  white;
+
+}
+
+.midimss ul{
+    
+    display: flex;
+    gap: 38px;
+    list-style: none;
+
+}
+.contactw{
+    background-color: rgb(44, 30, 15);
+    margin-top: 6px;
+
+}
+.contactw h1{
+    color: white;
+    display: grid;
+    justify-content: center;
+}
+.contactw form{
+    color: rgb(49, 245, 235);
+    display: grid;
+    justify-content: center;
+    margin-top: 15px;
+    border-style: groove;
+    width: 30%;
+    padding-top: 3px;
+    margin-left: 35%;
+}
